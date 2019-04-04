@@ -1,6 +1,6 @@
 # desafio-vue
 
-## Prueba técnica frontend para __RedCapital__
+## Prueba técnica frontend para __R. C.__
 
 Se realiza proyecto en Vue Cli, incluye un componente el cual consume via http request por axios a la api de https://randomuser.me/ 
 Se utiliza Bulma como framework de CSS, aunque aun estoy aprendiendo a ocuparlo.
